@@ -6,7 +6,7 @@
   <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="32%" ><a href="https://github.com/AFanSKyQs"><br /><sub><b>D图<br>194张</b></sub></a><br /><a href="https://github.com/AFanSKyQs/FanSky_Qs_Img/tree/main/LongTu" title="img"></a></td>
+      <td align="center" valign="top" width="32%" ><a href="https://github.com/AFanSKyQs"><br /><sub><b>D图<br>194+41张</b></sub></a><br /><a href="https://github.com/AFanSKyQs/FanSky_Qs_Img/tree/main/LongTu" title="img"></a></td>
      </td>
       </tr>
   </tbody>
